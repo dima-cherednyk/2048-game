@@ -1,4 +1,4 @@
-Miami landing page
+2048 Game
 ====================
 Technologies: JavaScript, HTML, SCSS, BEM, jQuery
 >
